@@ -79,3 +79,7 @@ button:hover {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+body.flex-container {
+    display: flex;
+    align-items: center;
+}
